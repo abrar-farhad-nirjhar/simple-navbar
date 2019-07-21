@@ -1,0 +1,34 @@
+#custom-header{
+    height: 60px;
+    background-color: darkslategrey;
+    padding-top: auto;
+}
+
+#header-name{
+    float: left;
+    margin-left: 250px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
+
+#header-nav{
+    float: right;
+    list-style-type: none;
+    color: white;
+    font-size: 15px;
+    font-family: courier;
+    margin-right: 200px;
+    margin-top: 22px;
+    
+
+}
+
+.list-objects{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
